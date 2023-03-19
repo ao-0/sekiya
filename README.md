@@ -1,4 +1,4 @@
-# sekiya
+# Sekiya
 ### Sekiya || xiba
 USING:
 
